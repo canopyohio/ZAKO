@@ -1,2 +1,2 @@
 # ZAKO
-Personal Financial Management Tool
+Personal Management Tool
